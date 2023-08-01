@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Updated from local to test automated builds for docker</h1>
+   <h1> Updated from local to test automated builds for docker final build</h1>
 
   
 </form>
