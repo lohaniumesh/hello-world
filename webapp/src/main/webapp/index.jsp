@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Updated from local to test automated builds course completion</h1>
+   <h1> Updated from local to test automated builds course completion. Thank you, happy learning.</h1>
 
   
 </form>
