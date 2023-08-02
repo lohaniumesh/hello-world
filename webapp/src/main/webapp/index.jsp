@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Updated from local to test automated builds for Ansible playbook v1</h1>
+   <h1> Updated from local to test automated builds for Ansible playbook fully automated</h1>
 
   
 </form>
